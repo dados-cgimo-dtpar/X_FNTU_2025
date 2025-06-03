@@ -10,4 +10,4 @@ Aprenda a gerar um Painel das Transferências Especiais através de solução de
 - Ambiente Looker Studio: [Looker Studio](https://lookerstudio.google.com)
 - Fonte de dados para o Painel do Looker: [dados tratados](https://github.com/dados-cgimo-dtpar/X_FNTU_2025/blob/main/Evento_114/trans_especiais_2023_2024_tratado.xlsx)
 - Painel Looker de Demonstração: [Painel Especiais Oficina Looker](https://lookerstudio.google.com/reporting/8d5b9fe9-5109-4f24-a495-2849c4f39df0)
-- Apresentação: [Slides](https://github.com/dados-cgimo-dtpar/X_FNTU_2025/blob/main/Evento_114/X%20FNTU-Evento_114_slides.pptx)
+- Apresentação: [Slides](https://github.com/dados-cgimo-dtpar/X_FNTU_2025/blob/main/Evento_114/X_FNTU_2025-Evento_114.pptx)
