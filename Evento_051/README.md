@@ -4,5 +4,6 @@ Conheça como disponibilizamos as informações do Transferegov.br e Obrasgov.br
 - Felipe La Rocca - CGIMO/DTPAR
 ## Materiais
 - Ferramentas de Gestão e Transparência: [Ferramentas de Gestão e Transparência](https://www.gov.br/transferegov/pt-br/ferramentas-gestao)
+- Painéis Gerenciais Parceriasgov.br: [Painéis Gerenciais Parceriasgov.br](https://www.gov.br/transferegov/pt-br/ferramentas-gestao/paineis-gerenciais-1)
 - Dados Abertos: [Dados Abertos](https://www.gov.br/transferegov/pt-br/ferramentas-gestao/dados-abertos)
 - Apresentação: [Slides](https://github.com/dados-cgimo-dtpar/X_FNTU_2025/raw/refs/heads/main/Evento_051/X_FNTU_2025-Evento_051.pptx)
